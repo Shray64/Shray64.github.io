@@ -11,9 +11,13 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 -->
+### Table of Contents
+
+1. [PyTorch Connectomics](#pytorch_connectomics)
+2. [Two-Stream Active Query Suggestion](#two_stream_active)
 
 ------------------------------------------------------------------------------
-### PyTorch Connectomics
+### PyTorch Connectomics <a name="pytorch_connectomics"></a>
 
 ##### Introduction
 
@@ -24,10 +28,9 @@ The field of connectomics aims to reconstruct the wiring diagram of the brain by
 Todo
 
 ------------------------------------------------------------------------------
-### Two-Stream Active Query Suggestion for Active Learning in Connectomics
-<!--
-![BRS](/files/abstract_figures/overview.png)
--->
+### Two-Stream Active Query Suggestion for Active Learning in Connectomics <a name="two_stream_active"></a>
+
+![Two-stream active query suggestion for synapse detection in electron microscopy (EM) images.](/files/figures/two_stream/two_stream_overview.png)
 
 ##### Abstract
 
