@@ -30,7 +30,7 @@ Todo
 ------------------------------------------------------------------------------
 ### Two-Stream Active Query Suggestion for Active Learning in Connectomics <a name="two_stream_active"></a>
 
-![Two-stream active query suggestion for synapse detection in electron microscopy (EM) images.](/files/figures/two_stream/two_stream_overview.png)
+![Two-stream active query suggestion](/files/figures/two_stream/two_stream_overview.png)
 
 ##### Abstract
 
@@ -38,4 +38,4 @@ Todo
 
 ##### Publication
 
-Zudi Lin, Donglai Wei, Won-Dong Jang, Siyan Zhou, Xupeng Chen, Xueying Wang, Richard Schalek, Daniel Berger, Adi Suissa-Peleg, Brian Matejek, Lee Kamentsky, Toufiq Parag, Thouis Jones, Daniel Haehn, Jeff Lichtman and Hanspeter Pfister. "Two-Stream Active Query Suggestion for Active Learning in Connectomics." *European Conference on Computer Vision* (**ECCV**), 2020
+Zudi Lin, [Donglai Wei](https://donglaiw.github.io), [Won-Dong Jang](https://wdjang.github.io), Siyan Zhou, Xupeng Chen, Xueying Wang, Richard Schalek, Daniel Berger, [Brian Matejek](https://www.brianmatejek.com), Lee Kamentsky, Adi Suissa-Peleg, [Daniel Haehn](https://danielhaehn.com), Thouis Jones, Toufiq Parag, [Jeff Lichtman](https://lichtmanlab.fas.harvard.edu/people/jeff-lichtman) and [Hanspeter Pfister](https://en.wikipedia.org/wiki/Hanspeter_Pfister). "Two-Stream Active Query Suggestion for Active Learning in Connectomics." *European Conference on Computer Vision* (**ECCV**), 2020
