@@ -5,7 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
+<!--
 You could also find my papers on my [Google Scholar profile](https://scholar.google.com/citations?user=Fn4hBvcAAAAJ&hl=en).
+-->
 
 {% include base_path %}
 
@@ -24,7 +26,7 @@ Conference Publications
 * Donglai Wei, **Zudi Lin**, Daniel Barranco, Nils Wendt, Xingyu Liu, Wenjie Yin, Xin Huang,
 Aarush Gupta, Won-Dong Jang, Xueying Wang, Ignacio Arganda-Carrerqs, Jeff Lichtman, Hanspeter Pfister.
 "MitoEM Dataset: Large-scale 3D Mitochondria Instance Segmentation from EM Images."
-*Medical Image Computing and Computer Assisted Interventions* (**MICCAI**), 2020 [[Website](https://donglaiw.github.io/page/mitoEM/index.html)][[Code](https://github.com/zudi-lin/pytorch_connectomics/tree/master/configs/MitoEM)]
+*Medical Image Computing and Computer Assisted Interventions* (**MICCAI**), 2020 [[Website](https://donglaiw.github.io/page/mitoEM/index.html)][[Paper](https://donglaiw.github.io/paper/2020_miccai_mitoEM.pdf)][[Code](https://github.com/zudi-lin/pytorch_connectomics/tree/master/configs/MitoEM)]
 
 * Frederik Dennig, Tom Polk, **Zudi Lin**, Tobias Schreck, Hanspeter Pfister, and Michael Behrisch.
 "FDive: Learning Relevance Models using Pattern-based Similarity Measures."
