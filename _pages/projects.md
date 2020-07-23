@@ -30,7 +30,7 @@ Besides installation guidance and package references, we provide several tutoria
 ------------------------------------------------------------------------------
 ## Two-Stream Active Query Suggestion for Active Learning in Connectomics <a name="two_stream_active"></a>
 
-![Two-stream active query suggestion](/files/figures/two_stream/two_stream_overview.pdf)
+![Two-stream active query suggestion](/files/figures/two_stream/two_stream_overview.png)
 
 #### Abstract
 
