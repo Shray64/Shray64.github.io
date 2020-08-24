@@ -21,7 +21,7 @@ Conference Publications
 ------
 
 * **Zudi Lin**, Donglai Wei, Won-Dong Jang, Siyan Zhou, Xupeng Chen, Xueying Wang, Richard Schalek, Daniel Berger, Adi Suissa-Peleg, Brian Matejek, Lee Kamentsky, Toufiq Parag, Thouis Jones, Daniel Haehn, Jeff Lichtman and Hanspeter Pfister. "Two-Stream Active Query Suggestion for Active Learning in Connectomics."
-*European Conference on Computer Vision* (**ECCV**), 2020
+*European Conference on Computer Vision* (**ECCV**), 2020 [[Website](https://zudi-lin.github.io/projects/#two_stream_active)][[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123630103.pdf)][[Supp.](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123630103-supp.pdf)]
 
 * Donglai Wei, **Zudi Lin**, Daniel Barranco, Nils Wendt, Xingyu Liu, Wenjie Yin, Xin Huang,
 Aarush Gupta, Won-Dong Jang, Xueying Wang, Ignacio Arganda-Carrerqs, Jeff Lichtman, Hanspeter Pfister.
