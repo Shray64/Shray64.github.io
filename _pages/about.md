@@ -22,3 +22,13 @@ Cambridge MA, USA
 * **B.S. in Biological Sciences**  
 Tsinghua University 2013 – 2017  
 Beijing, China  
+
+## Work Experience
+
+* *Research Assistant*, [Visual Computing Group](https://vcg.seas.harvard.edu), **Harvard University**  
+Time: 2017 -- current. Advisor: Prof. Hanspeter Pfister  
+Topics: Semantic & Instance Segmentation, Active Learning, Connectomics.
+
+* *Research Intern*, **Mitsubishi Electric Research Laboratories ([MERL](https://www.merl.com))**  
+Time: Summer 2019. Mentor: Dr. Ziming Zhang  
+Topics: Improving Test-Time Adversarial Robustness of CNN Models.
