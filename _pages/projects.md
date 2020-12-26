@@ -50,7 +50,7 @@ Zudi Lin, [Donglai Wei](https://donglaiw.github.io), [Won-Dong Jang](https://wdj
 * Mitocondria Segmentation on the Lucchi Dataset [[Link](https://zudi-lin.github.io/pytorch_connectomics/build/html/tutorials/mito.html#semantic-segmentation)]
 * Synaptic Cleft Detection on the CREMI Dataset [[Link](https://zudi-lin.github.io/pytorch_connectomics/build/html/tutorials/synapse.html#synaptic-cleft-detection)]
 * Synaptic Polarity Detection on the EM-R50 Dataset [[Link](https://zudi-lin.github.io/pytorch_connectomics/build/html/tutorials/synapse.html#synaptic-polarity-detection)]
-* ***Two-Stream Query Suggestion*** Algorithm [[Link](https://github.com/zudi-lin/pytorch_connectomics/blob/master/scripts/main.py)]
+* ***Two-Stream Query Suggestion*** Algorithm [[Link](https://github.com/zudi-lin/pytorch_connectomics/blob/master/scripts/tools/active_learning/two_stream.py)]
 
 ### Dataset
 
@@ -60,6 +60,7 @@ Todo
 
 This project has been partially supported by NSF award IIS-1835231 and NIH award 5U54CA225088-03.
 
+------------------------------------------------------------------------------
 ## Connectomics Challenges <a name="challenges"></a>
 
 ### MitoEM Challenge: Large-scale 3D Mitochondria Instance Segmentation
