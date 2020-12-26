@@ -65,7 +65,7 @@ This project has been partially supported by NSF award IIS-1835231 and NIH award
 ### MitoEM Challenge: Large-scale 3D Mitochondria Instance Segmentation
 
 <a href="https://mitoem.grand-challenge.org">
-<img style="float:left;margin:0px 15px 0px 0px" src="/files/figures/challenges/mitoem_logo.png" alt="MitoEM Logo" width="150" height="150">
+<img style="float:left;margin:10px 10px 0px 0px" src="/files/figures/challenges/mitoem_logo.png" alt="MitoEM Logo" width="160" height="160">
 </a>
 
-The task is the 3D mitochondria instance segmentation on two 30x30x30 μm^3 datasets, 1000x4096x4096 in voxels at (30, 8, 8) nanometer (nm) resolution. The electron microscopy (EM) image volumes are acquired from a rat (MitoEM-R) and a human (MitoEM-H) tissue, respectively. The mitochondria can display a complex morphology, *e.g.*, mitochondria-on-a-string (MOAS) instances that are connected by thin microtubules, and multiple instances can entangle with each other. Our [MitoEM challenge](https://mitoem.grand-challenge.org) is held at [IEEE ISBI 2021](https://biomedicalimaging.org/2021/).
+The task is the ***3D mitochondria instance segmentation*** on two 30x30x30 μm^3 datasets, 1000x4096x4096 in voxels at (30, 8, 8) nanometer (nm) resolution. The electron microscopy (EM) image volumes are acquired from a rat (MitoEM-R) and a human (MitoEM-H) tissue, respectively. The mitochondria can display a complex morphology, *e.g.*, mitochondria-on-a-string (MOAS) instances that are connected by thin microtubules, and multiple instances can entangle with each other. Our [MitoEM challenge](https://mitoem.grand-challenge.org) is held at [IEEE ISBI 2021](https://biomedicalimaging.org/2021/).
