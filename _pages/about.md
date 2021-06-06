@@ -22,6 +22,11 @@ Time: May 2020 -- Present.
 brwunv. 
 Advisor: Dr. Xiang Gao
 
+* *Research Intern*, [Networks and Analytics](https://ece.au.dk/en/research/key-areas-in-research-and-development/communication-control-and-automation/networks-and-analytics/people/) **Aarhus University, Denmark**  
+Time: Jan 2021 - May 2021.  
+Mentor: Prof. Rune Hylsberg Jacobsen and Dr. Jacob Høxbroe Jeppesen.  
+Topics: Explainable AI, Layer-wise Relevance Propation, LIME, Sentinel Data
+
 
 * *Research Intern*, [Visual Computing Group](https://vcg.seas.harvard.edu), **Harvard University**  
 Time: Jan 2021 -- Present.  
