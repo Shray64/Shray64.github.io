@@ -10,7 +10,6 @@ redirect_from:
 
 I am a recent undergraduate from the Birla Institute of Technology and Science, Pilani, India. I graduated with a Bachelor of Engineering in Computer Science and Engineering and a minor in Data Science.
 
-I am a computer science Ph.D. candidate in the School of Engineering and Applied Sciences at Harvard University, advised by Prof. [Hanspeter Pfister](https://en.wikipedia.org/wiki/Hanspeter_Pfister). I am interested in computer vision, deep learning, and neuroscience. My current projects include semantic & instance segmentation, active learning, unsupervised learning, and the analysis of comprehensive neuron connectivity in microscopy images of animal brains (connectomics).
 
 ## Education
 * **B.E in Computer Science and Engineering**  
@@ -19,11 +18,20 @@ Pilani, Rajasthan, India
 
 
 ## Work Experience
+* *Research Intern*, **Massachusetts Institute of Technology**  
+Time: May 2020 -- current. Advisor: Dr. Xiang Gao 
+Topics: Extreme Weather Prediction Using Deep Learning
 
-* *Research Assistant*, [Visual Computing Group](https://vcg.seas.harvard.edu), **Harvard University**  
-Time: 2017 -- current. Advisor: Prof. Hanspeter Pfister  
-Topics: Semantic & Instance Segmentation, Active Learning, Connectomics.
+* *Research Intern*, [Visual Computing Group](https://vcg.seas.harvard.edu), **Harvard University**  
+Time: 2021 -- current. Advisor: Prof. Hanspeter Pfister, Dr. Donglai Wei, Zudi Lin  
+Topics: Semantic & Instance Segmentation, Self Supervised Learning, Connectomics.
 
-* *Research Intern*, **Mitsubishi Electric Research Laboratories ([MERL](https://www.merl.com))**  
-Time: Summer 2019. Mentor: Dr. Ziming Zhang  
-Topics: Improving Test-Time Adversarial Robustness of CNN Models.
+* *Research Engineering / Scientist Assistant*, **Univeristy of Texas at Austin**  
+Time: Jan 2021 - May 2021. Mentor: Dr. Michael H. Young
+Topics: CyGNSS
+
+* *Research Intern*, **Aarhus University, Denmark**  
+Time: Jan 2021 - May 2021. Mentor: Prof. Rune Hylsberg Jacobsen and Dr. Jacob Høxbroe Jeppesen
+Topics: Explainable AI, Layer-wise Relevance Propation, LIME, Sentinel Data
+
+
