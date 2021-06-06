@@ -19,7 +19,8 @@ Birla Institute of Technology and Science Pilani 2017 – 2021
 ## Research Experience
 * *Research Intern*, **Massachusetts Institute of Technology**  
 Time: May 2020 -- Present. 
-ubiub
+ubiub. 
+
 
 * *Research Intern*, [Visual Computing Group](https://vcg.seas.harvard.edu), **Harvard University**  
 Time: Jan 2021 -- Present.  
