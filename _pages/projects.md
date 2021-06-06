@@ -16,7 +16,8 @@ author_profile: true
 1. [Extreme Weather Prediction](#extreme)
 2. [High Spati-Temporal CyGNSS Soil Moisture Using Machine Learning](#cygnss)
 3. [Interpretable machine learning for satellite based remote sensing](#explainable)
-4. YouTop 200: A most watched Video Object Segmentation  
+4. [YouTop200: A Most-Watched Video Object Segmentation Dataset] (#youtop) 
+5. [Self Supervised Learning Based 3D Instance Segmentation of Scutoid] (#scutoid)
 
 ------------------------------------------------------------------------------
 ## Extreme Weather Prediction <a name="extreme"></a>
@@ -44,7 +45,7 @@ Xiang Gao and Shray Mathur. "Predictability of U.S. Regional Extreme Precipitati
 
 ### Abstract
 
-This dissertation presents a Machine Learning based soil moisture retrieval method for NASA’s Cyclone Global Navigation Satellite System (CYGNSS) mission. The CYGNSS observations are comparedto the Soil Moisture Active Passive (SMAP) satellite and in-situ Texas Soil Observation Network(TxSON) soil moisture (SM) measurements for the months of January, April and July 2019.An initial grid-wise sensitivity analysis of CYGNSS reflectivity (Pr,ef f) to Soil Moisture (SM)is conducted at a 9x9km2grid resolution over the 36x36 km<sup>2</sup> TxSON region to assess thespatio-temporal relationships between P<sub>r,eff</sub> and SM. Variability among grid cells and seasonalshifts in correlations motivated inclusion of land physical parameters and CYGNSS observationgeometry in the analysis.  Specifically, we include the Specular Point (SP) incidence angle (θ),Elevation, Clay Fraction, Normalized Difference Vegetation Index (NDVI), Depth to RestrictiveLayer (DepRes), and surface roughness.  The individual effects of these variables onPr,ef fareassessed through a correlation and regression analysis.  Finally, an Artificial Neural Network(ANN) model is trained for different combinations of input features to attain SM estimatesat 9x9km2and 3x3km2grid resolutions.  The model structure is tuned to attain optimal results for different combinations and a 5-fold cross validation approach is employed to train the models. SM predictions with a root mean squared error of 0.0409 (0.0497) cm<sup>3</sup>/cm<sup>3 and Pearson correlation coefficient of 0.7024 (0.6794) are reported at 9x9 (3x3) km<sup>2 grid resolution
+This dissertation presents a Machine Learning based soil moisture retrieval method for NASA’s Cyclone Global Navigation Satellite System (CYGNSS) mission. The CYGNSS observations are comparedto the Soil Moisture Active Passive (SMAP) satellite and in-situ Texas Soil Observation Network(TxSON) soil moisture (SM) measurements for the months of January, April and July 2019. An initial grid-wise sensitivity analysis of CYGNSS reflectivity (P<sub>r,eff</sub>) to Soil Moisture (SM)is conducted at a 9x9km2grid resolution over the 36x36 km<sup>2</sup> TxSON region to assess thespatio-temporal relationships between P<sub>r,eff</sub> and SM. Variability among grid cells and seasonalshifts in correlations motivated inclusion of land physical parameters and CYGNSS observationgeometry in the analysis.  Specifically, we include the Specular Point (SP) incidence angle (θ),Elevation, Clay Fraction, Normalized Difference Vegetation Index (NDVI), Depth to RestrictiveLayer (DepRes), and surface roughness. The individual effects of these variables on P<sub>r,eff </sub> are assessed through a correlation and regression analysis. Finally, an Artificial Neural Network(ANN)model is trained for different combinations of input features to attain SM estimatesat 9x9km2and 3x3km2grid resolutions.  The model structure is tuned to attain optimal results for different combinations and a 5-fold cross validation approach is employed to train the models. SM predictions with a root mean squared error of 0.0409 (0.0497) cm<sup>3</sup>/cm<sup>3</sup> and Pearson correlation coefficient of 0.7024 (0.6794) are reported at 9x9 (3x3) km<sup>2</sup> grid resolution
 
 [[Thesis](https://zudi-lin.github.io/pytorch_connectomics/build/html/index.html)]
 
@@ -69,6 +70,12 @@ This project has been partially supported by NSF award IIS-1835231 and NIH award
 ## Interpretable machine learning for satellite based remote sensing<a name="explainable"></a>
 
 ![Two-stream active](/files/figures/Aarhus/tSNE_all.png)
+
+------------------------------------------------------------------------------
+## YouTop200: A Most-Watched Video Object Segmentation Dataset <a name="youtop"></a>
+
+------------------------------------------------------------------------------
+## Self Supervised Learning Based 3D Instance Segmentation of Scutoid <a name="scutoid"></a>
 
 <!-- ### MitoEM Challenge: Large-scale 3D Mitochondria Instance Segmentation
 
