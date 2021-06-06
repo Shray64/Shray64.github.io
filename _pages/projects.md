@@ -13,12 +13,12 @@ author_profile: true
 -->
 ## Table of Contents
 
-1. [PyTorch Connectomics](#pytorch_connectomics)
+1. [Extreme Weather Prediction](#extreme)
 2. [Two-Stream Active Query Suggestion](#two_stream_active)
 3. [Connectomics Challenges](#challenges)
 
 ------------------------------------------------------------------------------
-## PyTorch Connectomics <a name="pytorch_connectomics"></a>
+## Extreme Weather Prediction <a name="extreme"></a>
 
 ### Introduction
 
