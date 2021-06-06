@@ -22,9 +22,8 @@ Time: May 2020 -- Present.
 Advisor: Dr. Xiang Gao.Topics: Extreme Weather Prediction Using Deep Learning
 
 * *Research Intern*, [Visual Computing Group](https://vcg.seas.harvard.edu), **Harvard University**  
-Time: Jan 2021 -- Present. 
-Advisor: Prof. Hanspeter Pfister.  
-Advisor:Prof. Hanspeter Pfister.
+Time: Jan 2021 -- Present.  
+Advisor: Prof. Hanspeter Pfister.
 <!-- Advisor: Prof. Hanspeter Pfister. 
 Topics: Semantic & Instance Segmentation, Self Supervised Learning, Connectomics. -->
 
