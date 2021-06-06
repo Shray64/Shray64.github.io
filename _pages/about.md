@@ -25,14 +25,14 @@ Topics: Extreme Weather, Convolutional Neural Networks, Self Organizing Maps, Ne
 
 * *Research Intern*, Visual Computing Group, **Harvard University**  
 <img align="right" src="/files/figures/Harvard/harvard_logo_4.png" height = 'auto' width = '80'>
-Time: May 2021 - Present.  
+Time: May 2021 - Present  
 Mentor: Prof. Hanspeter Pfister  
 Topics: Semantic & Instance Segmentation (2D and 3D), Self Supervised Learning
 
 * *Research Engineering / Scientist Assistant*, **The Univeristy of Texas at Austin**  
 <img align="right" src="/files/figures/UT/UT_logo_3.jpeg" height = '80' width = '80'>
-Time: Jan 2021 - May 2021.  
-Mentor: Dr. Michael H Young.  
+Time: Jan 2021 - May 2021  
+Mentor: Dr. Michael H Young  
 Topics: CyGNSS, SMAP, TxSON, Artificial Neural Networks
 
 * *Research Intern*, [Networks and Analytics Group](https://ece.au.dk/en/research/key-areas-in-research-and-development/communication-control-and-automation/networks-and-analytics/people/), **Aarhus University, Denmark**  
