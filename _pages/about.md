@@ -33,7 +33,7 @@ Time: Jan 2021 - May 2021.
 Mentor: Dr. Michael H Young.  
 Topics: CyGNSS, SMAP, TxSON, Artificial Neural Networks
 
-* *Research Intern*, [Networks and Analytics](https://ece.au.dk/en/research/key-areas-in-research-and-development/communication-control-and-automation/networks-and-analytics/people/) **Aarhus University, Denmark**  
+* *Research Intern*, [Networks and Analytics Group](https://ece.au.dk/en/research/key-areas-in-research-and-development/communication-control-and-automation/networks-and-analytics/people/) **Aarhus University, Denmark**  
 Time: Jan 2021 - May 2021.  
 Mentor: Prof. Rune Hylsberg Jacobsen and Dr. Jacob Høxbroe Jeppesen.  
 Topics: Explainable AI, Layer-wise Relevance Propation, LIME, Sentinel Data
