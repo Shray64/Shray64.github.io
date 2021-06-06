@@ -8,22 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-I am a recent undergraduate from the Birla Institute of Technology and Science, Pilani, India. 
+I am a recent undergraduate from the Birla Institute of Technology and Science, Pilani, India. I graduated with a Bachelor of Engineering in Computer Science and Engineering and a minor in Data Science.
 
 I am a computer science Ph.D. candidate in the School of Engineering and Applied Sciences at Harvard University, advised by Prof. [Hanspeter Pfister](https://en.wikipedia.org/wiki/Hanspeter_Pfister). I am interested in computer vision, deep learning, and neuroscience. My current projects include semantic & instance segmentation, active learning, unsupervised learning, and the analysis of comprehensive neuron connectivity in microscopy images of animal brains (connectomics).
 
 ## Education
-* **Ph.D in Computer Science**  
-Harvard University, 2017 – current  
-Cambridge MA, USA
+* **B.E in Computer Science and Engineering**  
+Birla Institute of Technology and Science Pilani 2017 – 2021
+Pilani, Rajasthan, India
 
-* **M.S. in Computer Science**  
-Harvard University, 2017 – 2020  
-Cambridge MA, USA
-
-* **B.S. in Biological Sciences**  
-Tsinghua University 2013 – 2017  
-Beijing, China  
 
 ## Work Experience
 
