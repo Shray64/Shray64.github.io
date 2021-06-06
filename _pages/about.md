@@ -14,12 +14,11 @@ I am a recent undergraduate from the Birla Institute of Technology and Science, 
 ## Education
 * **B.E in Computer Science and Engineering**  
 Birla Institute of Technology and Science Pilani 2017 – 2021
-Pilani, Rajasthan, India
 
 
 ## Research Experience
 * *Research Intern*, **Massachusetts Institute of Technology**  
-Time: May 2020 -- Present. Advisor: Dr. Xiang Gao 
+Time: May 2020 -- Present. Advisor: Dr. Xiang Gao **Enter**  
 Topics: Extreme Weather Prediction Using Deep Learning
 
 * *Research Intern*, [Visual Computing Group](https://vcg.seas.harvard.edu), **Harvard University**  
