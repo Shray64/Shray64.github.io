@@ -24,8 +24,8 @@ Advisor: Dr. Xiang Gao
 
 * *Research Engineering / Scientist Assistant*, **The Univeristy of Texas at Austin**  
 Time: Jan 2021 - May 2021.  
-Mentor: Prof. Rune Hylsberg Jacobsen and Dr. Jacob Høxbroe Jeppesen.  
-Topics: Explainable AI, Layer-wise Relevance Propation, LIME, Sentinel Data
+Mentor: Dr. Michael H Young.  
+Topics: CyGNSS, SMAP, TxSON, Artificial Neural Networks
 
 
 * *Research Intern*, [Visual Computing Group](https://vcg.seas.harvard.edu), **Harvard University**  
