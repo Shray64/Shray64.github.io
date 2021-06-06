@@ -18,7 +18,7 @@ Birla Institute of Technology and Science Pilani 2017 – 2021
 
 ## Research Experience
 * *Research Intern*, **Massachusetts Institute of Technology**  
-<img align="right" src="/files/figures/MIT/mit_logo.png" height = 'auto' width = '60'>
+<img align="right" src="/files/figures/MIT/mit_logo.png" height = 'auto' width = '80'>
 Time: May 2020 - Present.  
 Mentor: Dr. Xiang Gao.  
 Topics: Extreme Weather, Convolutional Neural Networks, Self Organizing Maps, Neural Network Ensembles
@@ -36,6 +36,7 @@ Mentor: Dr. Michael H Young.
 Topics: CyGNSS, SMAP, TxSON, Artificial Neural Networks
 
 * *Research Intern*, [Networks and Analytics Group](https://ece.au.dk/en/research/key-areas-in-research-and-development/communication-control-and-automation/networks-and-analytics/people/), **Aarhus University, Denmark**  
+<img align="right" src="/files/figures/Aarhus/aarhus_logo.png" height = 'auto' width = '80'>
 Time: Jan 2021 - May 2021.  
 Mentor: Prof. Rune Hylsberg Jacobsen and Dr. Jacob Høxbroe Jeppesen.  
 Topics: Explainable AI, Layer-wise Relevance Propation, LIME, Sentinel Data
