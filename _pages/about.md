@@ -18,7 +18,7 @@ Birla Institute of Technology and Science Pilani 2017 – 2021
 
 ## Research Experience
 * *Research Intern*, **Massachusetts Institute of Technology**  
-<img align="right", height = '10', width = '10', src="/files/figures/MIT/mit_logo.png">
+<img align="right", src="/files/figures/MIT/mit_logo.png">
 Time: May 2020 - Present.  
 Mentor: Dr. Xiang Gao.  
 Topics: Extreme Weather, Convolutional Neural Networks, Self Organizing Maps, Neural Network Ensembles
