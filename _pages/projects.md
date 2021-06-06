@@ -28,7 +28,7 @@ In this study, we use analogue method and Convolutional Neural Networks (CNNs) t
 
 ### Publication
 
-Xiang Gao and Shray Mathur. "Two-Stream Active Query Suggestion for Active Learning in Connectomics." *Journal of Climate*, 2021 [[Paper](https://doi.org/10.1175/JCLI-D-21-0137.1)]
+Xiang Gao and Shray Mathur. "Predictability of U.S. Regional Extreme Precipitation Occurrence Based on Large-Scale Meteorological Patterns (LSMPs)." *Journal of Climate*, 2021 [[Paper](https://doi.org/10.1175/JCLI-D-21-0137.1)]
 
 <!-- The field of ***connectomics*** aims to reconstruct the wiring diagram of the brain by mapping the neural connections at the level of individual synapses. Recent advances in electronic microscopy (EM) have enabled the collection of a large number of image stacks at nanometer resolution, but the annotation requires expertise and is super time-consuming. Here we provide a deep learning framework powered by [PyTorch](https://pytorch.org/) for automatic and semi-automatic image segmentation in connectomics. This repository is actively under development by Visual Computing Group ([VCG](https://vcg.seas.harvard.edu)) at Harvard University. -->
 
