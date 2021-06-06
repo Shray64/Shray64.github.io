@@ -17,10 +17,15 @@ Birla Institute of Technology and Science Pilani 2017 – 2021
 
 
 ## Research Experience
-* *Research Intern*, **Massachusetts Institute of Technology**  
+* **, ****  
 Time: May 2020 -- Present. 
 brwunv. 
 Advisor: Dr. Xiang Gao
+
+* *Research Intern*, **Massachusetts Institute of Technology**  
+Time: May 2020 - Present.  
+Mentor: Dr. Xiang Gao.  
+Topics: Extreme Weather, Convolutional Neural Networks, Self Organizing Maps, Neural Network Ensembles
 
 * *Research Engineering / Scientist Assistant*, **The Univeristy of Texas at Austin**  
 Time: Jan 2021 - May 2021.  
