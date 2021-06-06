@@ -30,7 +30,7 @@ Mentor: Prof. Hanspeter Pfister
 Topics: Semantic & Instance Segmentation (2D and 3D), Self Supervised Learning
 
 * *Research Engineering / Scientist Assistant*, **The Univeristy of Texas at Austin**  
-<img align="right" src="/files/figures/UT/ut_logo_2.png" height = '80' width = '80'>
+<img align="right" src="/files/figures/UT/UT_logo_2.png" height = '80' width = '80'>
 Time: Jan 2021 - May 2021.  
 Mentor: Dr. Michael H Young.  
 Topics: CyGNSS, SMAP, TxSON, Artificial Neural Networks
