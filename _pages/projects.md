@@ -14,7 +14,7 @@ author_profile: true
 ## Table of Contents
 
 1. [Extreme Weather Prediction](#extreme)
-2. [High Spati-Temporal CyGNSS Soil Moisture Using Machine Learning](#cygnss)
+2. [High Spatio-Temporal CyGNSS Soil Moisture Using Machine Learning](#cygnss)
 3. [Interpretable machine learning for satellite based remote sensing](#explainable)
 4. [YouTop200: A Most-Watched Video Object Segmentation Dataset](#youtop)
 5. [Self Supervised Learning Based 3D Instance Segmentation of Scutoid](#scutoid)
