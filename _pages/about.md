@@ -17,11 +17,6 @@ Birla Institute of Technology and Science Pilani 2017 – 2021
 
 
 ## Research Experience
-* **, ****  
-Time: May 2020 -- Present. 
-brwunv. 
-Advisor: Dr. Xiang Gao
-
 * *Research Intern*, **Massachusetts Institute of Technology**  
 Time: May 2020 - Present.  
 Mentor: Dr. Xiang Gao.  
@@ -35,13 +30,9 @@ Topics: CyGNSS, SMAP, TxSON, Artificial Neural Networks
 
 * *Research Intern*, [Visual Computing Group](https://vcg.seas.harvard.edu), **Harvard University**  
 Time: Jan 2021 -- Present.  
-Advisor: Prof. Hanspeter Pfister.
-<!-- Advisor: Prof. Hanspeter Pfister. 
-Topics: Semantic & Instance Segmentation, Self Supervised Learning, Connectomics. -->
+Advisor: Prof. Hanspeter Pfister. 
+Topic: Semantic & Instance Segmentation (2D and 3D), Self Supervised Learning
 
-* *Research Engineering / Scientist Assistant*, **The Univeristy of Texas at Austin**  
-Time: Jan 2021 - May 2021. 
-Mentor
 
 * *Research Intern*, [Networks and Analytics](https://ece.au.dk/en/research/key-areas-in-research-and-development/communication-control-and-automation/networks-and-analytics/people/) **Aarhus University, Denmark**  
 Time: Jan 2021 - May 2021.  
