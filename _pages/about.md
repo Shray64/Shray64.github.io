@@ -18,18 +18,19 @@ Birla Institute of Technology and Science Pilani 2017 – 2021
 
 ## Research Experience
 * *Research Intern*, **Massachusetts Institute of Technology**  
-<img align="right" src="/files/figures/MIT/mit_logo.png" height = 'auto' width = '80'>
+<img align="right" src="/files/figures/MIT/mit_logo.png" height = 'auto' width = '60'>
 Time: May 2020 - Present.  
 Mentor: Dr. Xiang Gao.  
 Topics: Extreme Weather, Convolutional Neural Networks, Self Organizing Maps, Neural Network Ensembles
 
 * *Research Intern*, [Visual Computing Group](https://vcg.seas.harvard.edu), **Harvard University**  
-<img align="right" src="/files/figures/Harvard/Harvard-Logo.png" height = 'auto' width = '60'>
+<img align="right" src="/files/figures/Harvard/Harvard-Logo.png" height = 'auto' width = '80'>
 Time: May 2021 - Present.  
 Mentor: Prof. Hanspeter Pfister  
 Topics: Semantic & Instance Segmentation (2D and 3D), Self Supervised Learning
 
 * *Research Engineering / Scientist Assistant*, **The Univeristy of Texas at Austin**  
+<img align="right" src="/files/figures/UT/UT_logo.png" height = 'auto' width = '80'>
 Time: Jan 2021 - May 2021.  
 Mentor: Dr. Michael H Young.  
 Topics: CyGNSS, SMAP, TxSON, Artificial Neural Networks
