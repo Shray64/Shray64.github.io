@@ -73,6 +73,7 @@ This project has been partially supported by NSF award IIS-1835231 and NIH award
 
 ------------------------------------------------------------------------------
 ## YouTop200: A Most-Watched Video Object Segmentation Dataset <a name="youtop"></a>
+![Two-stream active](/files/figures/Aarhus/tSNE_all.png)
 
 ------------------------------------------------------------------------------
 ## Self Supervised Learning Based 3D Instance Segmentation of Scutoid <a name="scutoid"></a>
