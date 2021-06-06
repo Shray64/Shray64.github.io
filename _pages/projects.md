@@ -15,7 +15,7 @@ author_profile: true
 
 1. [Extreme Weather Prediction](#extreme)
 2. [High Spati-Temporal CyGNSS Soil Moisture Using Machine Learning](#cygnss)
-3. [Connectomics Challenges](#challenges)
+3. [Interpretable machine learning for satellite based remote sensing](#explainable)
 
 ------------------------------------------------------------------------------
 ## Extreme Weather Prediction <a name="extreme"></a>
@@ -49,9 +49,9 @@ However, most query suggestion models optimize their learnable parameters only o
 To tackle this, we propose a ***two-stream active*** query suggestion approach. In addition to the supervised feature extractor, we introduce an unsupervised one optimized on all raw images to capture diverse image features, which can later be improved by fine-tuning on new labels.
 As a use case, we build an end-to-end active learning framework with our query suggestion method for 3D synapse detection and mitochondria segmentation in connectomics. With the framework, we curate, to our best knowledge, the largest connectomics dataset with dense synapses and mitochondria annotation.
 
-### Thesis
+[[Thesis](https://zudi-lin.github.io/pytorch_connectomics/build/html/index.html)]
 
-Zudi Lin, [Donglai Wei](https://donglaiw.github.io), [Won-Dong Jang](https://wdjang.github.io), Siyan Zhou, Xupeng Chen, [Xueying Wang](https://sites.google.com/view/snowxwang/home?authuser=0), Richard Schalek, Daniel Berger, [Brian Matejek](https://www.brianmatejek.com), Lee Kamentsky, Adi Suissa-Peleg, [Daniel Haehn](https://danielhaehn.com), [Thouis Jones](https://personal.broadinstitute.org/thouis/), Toufiq Parag, [Jeff Lichtman](https://lichtmanlab.fas.harvard.edu/people/jeff-lichtman) and [Hanspeter Pfister](https://en.wikipedia.org/wiki/Hanspeter_Pfister). "Two-Stream Active Query Suggestion for Active Learning in Connectomics." *European Conference on Computer Vision* (**ECCV**), 2020 [[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123630103.pdf)][[Supp.](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123630103-supp.pdf)]
+<!-- Zudi Lin, [Donglai Wei](https://donglaiw.github.io), [Won-Dong Jang](https://wdjang.github.io), Siyan Zhou, Xupeng Chen, [Xueying Wang](https://sites.google.com/view/snowxwang/home?authuser=0), Richard Schalek, Daniel Berger, [Brian Matejek](https://www.brianmatejek.com), Lee Kamentsky, Adi Suissa-Peleg, [Daniel Haehn](https://danielhaehn.com), [Thouis Jones](https://personal.broadinstitute.org/thouis/), Toufiq Parag, [Jeff Lichtman](https://lichtmanlab.fas.harvard.edu/people/jeff-lichtman) and [Hanspeter Pfister](https://en.wikipedia.org/wiki/Hanspeter_Pfister). "Two-Stream Active Query Suggestion for Active Learning in Connectomics." *European Conference on Computer Vision* (**ECCV**), 2020 [[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123630103.pdf)][[Supp.](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123630103-supp.pdf)]
 
 ### Code
 
@@ -66,15 +66,17 @@ Todo
 
 ### Acknowledgements
 
-This project has been partially supported by NSF award IIS-1835231 and NIH award 5U54CA225088-03.
+This project has been partially supported by NSF award IIS-1835231 and NIH award 5U54CA225088-03. -->
 
 ------------------------------------------------------------------------------
-## Connectomics Challenges <a name="challenges"></a>
+## Interpretable machine learning for satellite based remote sensing<a name="explainable"></a>
 
-### MitoEM Challenge: Large-scale 3D Mitochondria Instance Segmentation
+
+
+<!-- ### MitoEM Challenge: Large-scale 3D Mitochondria Instance Segmentation
 
 <a href="https://mitoem.grand-challenge.org">
 <img style="float:left;margin:10px 10px 0px 0px" src="/files/figures/challenges/mitoem_logo.png" alt="MitoEM Logo" width="160" height="160">
 </a>
 
-The task is the ***3D mitochondria instance segmentation*** on two 30x30x30 μm^3 datasets, 1000x4096x4096 in voxels at (30, 8, 8) nanometer (nm) resolution. The electron microscopy (EM) image volumes are acquired from a rat (MitoEM-R) and a human (MitoEM-H) tissue, respectively. The mitochondria can display a complex morphology, *e.g.*, mitochondria-on-a-string (MOAS) instances that are connected by thin microtubules, and multiple instances can entangle with each other. Our [MitoEM challenge](https://mitoem.grand-challenge.org) is held at [IEEE ISBI 2021](https://biomedicalimaging.org/2021/).
+The task is the ***3D mitochondria instance segmentation*** on two 30x30x30 μm^3 datasets, 1000x4096x4096 in voxels at (30, 8, 8) nanometer (nm) resolution. The electron microscopy (EM) image volumes are acquired from a rat (MitoEM-R) and a human (MitoEM-H) tissue, respectively. The mitochondria can display a complex morphology, *e.g.*, mitochondria-on-a-string (MOAS) instances that are connected by thin microtubules, and multiple instances can entangle with each other. Our [MitoEM challenge](https://mitoem.grand-challenge.org) is held at [IEEE ISBI 2021](https://biomedicalimaging.org/2021/). -->
