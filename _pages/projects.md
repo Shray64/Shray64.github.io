@@ -37,7 +37,7 @@ Xiang Gao and Shray Mathur. "Two-Stream Active Query Suggestion for Active Learn
 ------------------------------------------------------------------------------
 ## High Spati-Temporal CyGNSS Soil Moisture Using Machine Learning <a name="cygnss"></a>
 
-![Two-stream active](/files/figures/two_stream/two_stream_overview.png)
+![Two-stream active](/files/figures/UT/scatter_daily_36km_all_months.png)
 
 ### Abstract
 
