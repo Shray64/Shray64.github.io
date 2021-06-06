@@ -23,7 +23,7 @@ Time: May 2020 - Present
 Mentor: Dr. Xiang Gao  
 Topics: Extreme Weather, Convolutional Neural Networks, Self Organizing Maps, Neural Network Ensembles
 
-* *Research Intern*, [Visual Computing Group](https://vcg.seas.harvard.edu), **Harvard University**  
+* *Research Intern*, Visual Computing Group, **Harvard University**  
 <img align="right" src="/files/figures/Harvard/harvard_logo_4.png" height = 'auto' width = '80'>
 Time: May 2021 - Present.  
 Mentor: Prof. Hanspeter Pfister  
