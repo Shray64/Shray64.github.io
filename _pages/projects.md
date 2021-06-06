@@ -14,22 +14,28 @@ author_profile: true
 ## Table of Contents
 
 1. [Extreme Weather Prediction](#extreme)
-2. [Two-Stream Active Query Suggestion](#two_stream_active)
+2. [High Spati-Temporal CyGNSS Soil Moisture Using Machine Learning](#cygnss)
 3. [Connectomics Challenges](#challenges)
 
 ------------------------------------------------------------------------------
 ## Extreme Weather Prediction <a name="extreme"></a>
 
-### Introduction
+### Abstract
 
-The field of ***connectomics*** aims to reconstruct the wiring diagram of the brain by mapping the neural connections at the level of individual synapses. Recent advances in electronic microscopy (EM) have enabled the collection of a large number of image stacks at nanometer resolution, but the annotation requires expertise and is super time-consuming. Here we provide a deep learning framework powered by [PyTorch](https://pytorch.org/) for automatic and semi-automatic image segmentation in connectomics. This repository is actively under development by Visual Computing Group ([VCG](https://vcg.seas.harvard.edu)) at Harvard University.
+In this study, we use analogue method and Convolutional Neural Networks (CNNs) to assess the potential predictability of extreme precipitation occurrence based on Large-Scale Meteorological Patterns (LSMPs) for the winter (DJF) of Pacific Coast California (PCCA) and the summer (JJA) of Midwestern United States (MWST). We evaluate the LSMPs constructed with a large set of variables at multiple atmospheric levels and quantify the prediction skill with a variety of complementary performance measures. Our results suggest that LSMPs provide useful predictability of daily extreme precipitation occurrence and its interannual variability over both regions. The 14-year (2006-2019) independent forecast shows Gilbert Skill Scores (GSS) in PCCA range from 0.06 to 0.32 across 24 CNN schemes and from 0.16 to 0.26 across 4 analogue schemes, in contrast to those from 0.1 to 0.24 and from 0.1 to 0.14 in MWST. Overall, CNN is shown to be more powerful in extracting the relevant features associated with extreme precipitation from the LSMPs than analogue method, with several single-variate CNN schemes achieving more skillful prediction than the best multi-variate analogue scheme in PCCA and more than half of CNN schemes in MWST. Nevertheless, both methods highlight the Integrated Vapor Transport (IVT, or its zonal and meridional components) enables higher skills than other atmospheric variables over both regions. Warm-season extreme precipitation in MWST presents a forecast challenge with overall lower prediction skill than in PCCA, attributed to the weak synoptic-scale forcing in summer.
 
-### [[Documentation](https://zudi-lin.github.io/pytorch_connectomics/build/html/index.html)] [[GitHub](https://github.com/zudi-lin/pytorch_connectomics#pytorch-connectomics)]
+### Publication
 
-Besides installation guidance and package references, we provide several tutorials covering both semantic and instance segmentation for [neurons](https://zudi-lin.github.io/pytorch_connectomics/build/html/tutorials/snemi.html), and other biological structures like [synapses](https://zudi-lin.github.io/pytorch_connectomics/build/html/tutorials/cremi.html) and [mitochondria](https://zudi-lin.github.io/pytorch_connectomics/build/html/tutorials/mito.html).
+Xiang Gao and Shray Mathur. "Two-Stream Active Query Suggestion for Active Learning in Connectomics." *Journal of Climate*, 2021 [[Paper](https://doi.org/10.1175/JCLI-D-21-0137.1)]
+
+<!-- The field of ***connectomics*** aims to reconstruct the wiring diagram of the brain by mapping the neural connections at the level of individual synapses. Recent advances in electronic microscopy (EM) have enabled the collection of a large number of image stacks at nanometer resolution, but the annotation requires expertise and is super time-consuming. Here we provide a deep learning framework powered by [PyTorch](https://pytorch.org/) for automatic and semi-automatic image segmentation in connectomics. This repository is actively under development by Visual Computing Group ([VCG](https://vcg.seas.harvard.edu)) at Harvard University. -->
+
+<!-- ### [[Documentation](https://zudi-lin.github.io/pytorch_connectomics/build/html/index.html)] [[GitHub](https://github.com/zudi-lin/pytorch_connectomics#pytorch-connectomics)] -->
+
+<!-- Besides installation guidance and package references, we provide several tutorials covering both semantic and instance segmentation for [neurons](https://zudi-lin.github.io/pytorch_connectomics/build/html/tutorials/snemi.html), and other biological structures like [synapses](https://zudi-lin.github.io/pytorch_connectomics/build/html/tutorials/cremi.html) and [mitochondria](https://zudi-lin.github.io/pytorch_connectomics/build/html/tutorials/mito.html). -->
 
 ------------------------------------------------------------------------------
-## Two-Stream Active Query Suggestion for Active Learning in Connectomics <a name="two_stream_active"></a>
+## High Spati-Temporal CyGNSS Soil Moisture Using Machine Learning <a name="cygnss"></a>
 
 ![Two-stream active](/files/figures/two_stream/two_stream_overview.png)
 
@@ -41,7 +47,7 @@ However, most query suggestion models optimize their learnable parameters only o
 To tackle this, we propose a ***two-stream active*** query suggestion approach. In addition to the supervised feature extractor, we introduce an unsupervised one optimized on all raw images to capture diverse image features, which can later be improved by fine-tuning on new labels.
 As a use case, we build an end-to-end active learning framework with our query suggestion method for 3D synapse detection and mitochondria segmentation in connectomics. With the framework, we curate, to our best knowledge, the largest connectomics dataset with dense synapses and mitochondria annotation.
 
-### Publication
+### Thesis
 
 Zudi Lin, [Donglai Wei](https://donglaiw.github.io), [Won-Dong Jang](https://wdjang.github.io), Siyan Zhou, Xupeng Chen, [Xueying Wang](https://sites.google.com/view/snowxwang/home?authuser=0), Richard Schalek, Daniel Berger, [Brian Matejek](https://www.brianmatejek.com), Lee Kamentsky, Adi Suissa-Peleg, [Daniel Haehn](https://danielhaehn.com), [Thouis Jones](https://personal.broadinstitute.org/thouis/), Toufiq Parag, [Jeff Lichtman](https://lichtmanlab.fas.harvard.edu/people/jeff-lichtman) and [Hanspeter Pfister](https://en.wikipedia.org/wiki/Hanspeter_Pfister). "Two-Stream Active Query Suggestion for Active Learning in Connectomics." *European Conference on Computer Vision* (**ECCV**), 2020 [[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123630103.pdf)][[Supp.](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123630103-supp.pdf)]
 
