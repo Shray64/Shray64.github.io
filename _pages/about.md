@@ -24,7 +24,7 @@ Topics: Extreme Weather, Convolutional Neural Networks, Self Organizing Maps, Ne
 
 * *Research Intern*, [Visual Computing Group](https://vcg.seas.harvard.edu), **Harvard University**  
 Time: May 2021 - Present.  
-Mentor: Prof. Hanspeter Pfsiter  
+Mentor: Prof. Hanspeter Pfister  
 Topics: Semantic & Instance Segmentation (2D and 3D), Self Supervised Learning
 
 * *Research Engineering / Scientist Assistant*, **The Univeristy of Texas at Austin**  
