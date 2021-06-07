@@ -1,13 +1,11 @@
 ---
 layout: archive
 title: "Publications"
+title: "Conference Publications"
 permalink: /publications/
-author_profile: false
+author_profile: true
 ---
 
-<!--
-You could also find my papers on my [Google Scholar profile](https://scholar.google.com/citations?user=Fn4hBvcAAAAJ&hl=en).
--->
 
 {% include base_path %}
 
