@@ -22,7 +22,7 @@ author_profile: true
 ------------------------------------------------------------------------------
 ## Extreme Weather Prediction <a name="extreme"></a>
 
-![Two-stream active](/files/figures/MIT/PCCA_res.png)
+![](/files/figures/MIT/PCCA_res.png)
 
 ### Abstract
 
