@@ -22,7 +22,8 @@ author_profile: true
 ------------------------------------------------------------------------------
 ## Extreme Weather Prediction <a name="extreme"></a>
 
-![](/files/figures/MIT/PCCA_res.png)
+<!-- ![](/files/figures/MIT/PCCA_res.png) -->
+<img src="/files/figures/MIT/PCCA_res.png">
 
 ### Abstract
 
