@@ -80,6 +80,8 @@ This project has been partially supported by NSF award IIS-1835231 and NIH award
 ------------------------------------------------------------------------------
 ## Self Supervised Learning Based 3D Instance Segmentation of Scutoid <a name="scutoid"></a>
 
+![Two-stream active](/files/figures/Harvard/scutoid_fig.png)
+
 <!-- ### MitoEM Challenge: Large-scale 3D Mitochondria Instance Segmentation
 
 <a href="https://mitoem.grand-challenge.org">
