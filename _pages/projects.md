@@ -24,7 +24,7 @@ author_profile: true
 
 <!-- ![](/files/figures/MIT/PCCA_res.png) -->
 <!-- ![](/files/figures/MIT/cnn_arch_fig.png) -->
-<img src="/files/figures/MIT/cnn_arch_fig.png" width = '960' height = '450'>
+<img src="/files/figures/MIT/cnn_arch_fig.png" width = '960' height = '550'>
 <!-- <img src="/files/figures/MIT/PCCA_res.png" width = '800' height = 'auto'> -->
 
 ### Abstract
