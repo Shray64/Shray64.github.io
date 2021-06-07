@@ -23,7 +23,7 @@ author_profile: true
 ## Extreme Weather Prediction <a name="extreme"></a>
 
 <!-- ![](/files/figures/MIT/PCCA_res.png) -->
-<img src="/files/figures/MIT/PCCA_res.png" width = '960' height = '100'>
+<img src="/files/figures/MIT/PCCA_res.png" width = '900' height = '500'>
 
 ### Abstract
 
