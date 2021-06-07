@@ -12,8 +12,8 @@ I am a recent undergraduate from the Birla Institute of Technology and Science, 
 
 
 ## Education
-* **B.E (Hons.) in Computer Science and Engineering**  
 <img align="right" src="/files/figures/BITS/logo.png" height = 'auto' width = '80'>
+* **B.E (Hons.) in Computer Science and Engineering**  
 Birla Institute of Technology and Science Pilani 2017 – 2021
 
 
