@@ -72,7 +72,7 @@ Todo
 This project has been partially supported by NSF award IIS-1835231 and NIH award 5U54CA225088-03. -->
 
 ------------------------------------------------------------------------------
-## Interpretable machine learning for satellite based remote sensing<a name="explainable"></a>
+## Interpretable Machine Learning for Satellite Based Remote Sensing<a name="explainable"></a>
 
 <!-- ![Two-stream active](/files/figures/Aarhus/tSNE_all.png) -->
 <img style="float:left;margin:10px 10px 0px 0px" src="/files/figures/Aarhus/tSNE_all.png" width="400" height="400">
