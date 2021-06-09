@@ -86,7 +86,9 @@ This project has been partially supported by NSF award IIS-1835231 and NIH award
 <!-- ![Two-stream active](/files/figures/Harvard/scutoid_fig.png) -->
 
 <!-- <img src="/files/figures/Harvard/scutoid_fig.png" width = '960' height = '300'> -->
-<img style="float:left;margin:10px 10px 0px 0px" src="/files/figures/Harvard/scutoid_fig.png" alt="MitoEM Logo" width="160" height="160">
+<!-- <img style="float:left;margin:10px 10px 0px 0px" src="/files/figures/Harvard/scutoid_fig.png" alt="MitoEM Logo" width="160" height="160"> -->
+<img style="float:left;margin:10px 10px 0px 0px" src="/files/figures/Harvard/scutoid_fig.png">
+Currently working on 3D Instance Segmentation of Scutoid Volumes using Self training and Connectomic segmentation.
 
 <!-- ### MitoEM Challenge: Large-scale 3D Mitochondria Instance Segmentation
 
