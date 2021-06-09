@@ -45,8 +45,8 @@ Xiang Gao and Shray Mathur. "Predictability of U.S. Regional Extreme Precipitati
 ------------------------------------------------------------------------------
 ## High Spati-Temporal CyGNSS Soil Moisture Using Machine Learning <a name="cygnss"></a>
 
-<!-- ![Two-stream active](/files/figures/UT/scatter_daily_36km_all_months.png) -->
-<img style="float:left;margin:10px 10px 0px 0px" src="/files/figures/UT/spatial_corr_heatmaps.png" width = '500' height = '500'>
+![Two-stream active](/files/figures/UT/scatter_daily_36km_all_months.png)
+<!-- <img style="float:left;margin:10px 10px 0px 0px" src="/files/figures/UT/spatial_corr_heatmaps.png" width = '500' height = '500'> -->
 
 ### Abstract
 
