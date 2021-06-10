@@ -28,8 +28,8 @@ author_profile: true
 
 ## Conference Publications
 
-* Donglai Wei, Siddhant Kharbanda, Sarthak Arora, Roshan Roy, Nishant Jain, Akash Palrecha, Tanav Shah, **Shray Mathur**, Abhijay Kemkar, Anirudh Chakravarthy, Zudi Lin, Won-Dong Jang, Yansong Tang, Song Bai, Deqing Sun, James Tompkin, Philip Torr and Hanspeter Pfister. "YouTop200: A Most-Watched Video Object Segmentation Dataset."
-*International Conference on Computer Vision* (**ICCV**), 2021 (Under Review)
+<!-- * Donglai Wei, Siddhant Kharbanda, Sarthak Arora, Roshan Roy, Nishant Jain, Akash Palrecha, Tanav Shah, **Shray Mathur**, Abhijay Kemkar, Anirudh Chakravarthy, Zudi Lin, Won-Dong Jang, Yansong Tang, Song Bai, Deqing Sun, James Tompkin, Philip Torr and Hanspeter Pfister. "YouTop200: A Most-Watched Video Object Segmentation Dataset."
+*International Conference on Computer Vision* (**ICCV**), 2021 (Under Review) -->
 
 ## Book Chapters
 * Lavika Goel, Akshina Jindal, **Shray Mathur**, Atith Gandhi
