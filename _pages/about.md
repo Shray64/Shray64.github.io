@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I recently received my B.E (Hons) degree in Computer Science and Engineering with a Minor in Data Science from the Birla Institute of Techonology and Science, Pilani (BITS Pilani). I am currently working as a research intern at the Massachussets Institute of Technology at the Joint Program on the Science and Policy of Global Change where I am investigating the use of Upsupervised and Supervised Machine Learning approaches to predict extreme precipitation events and idenitfy accompanying synoptic scale atmospheric forcing patterns. With previous research experience in the fields of Computer Vision and Explainable AI, I am very interested in exploring their applications in interdisciplinary research areas including Climate Science, Agriculture, Remote Sensing and bio-medical image analysis. 
+I recently received my B.E (Hons) degree in Computer Science and Engineering with a Minor in Data Science from the Birla Institute of Techonology and Science, Pilani (BITS Pilani). I am currently working as a research intern at the Massachussets Institute of Technology at the Joint Program on the Science and Policy of Global Change where I am investigating the use of Upsupervised and Supervised Machine Learning approaches to predict extreme precipitation events and idenitfy accompanying synoptic scale atmospheric forcing patterns. With previous research experience in the fields of Computer Vision and Explainable AI, I am very interested in exploring their applications in interdisciplinary research areas including Climate Science, Agriculture, Remote Sensing Physics-Guided Machine Learning and and bio-medical image analysis. 
 
 
 
