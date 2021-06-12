@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently working as a research intern at the Joint Program of Science and Policy of Global Change at the Massuchussets Institute of Technology on using Deep Learning methods for high impact weather events. I received my B.E (Hons) degree in Computer Science and Engineering with a Minor in Data Science from the Birla Institute of Techonology and Science, Pilani (BITS Pilani). As part of my undergraduate thesis I worked in Dr. Michael Young's research group at the University of Texas at Austin on investigating spaceborne GNSS-R data from NASA's CYGNSS mission for high spatio-temporal soil moisture retrievals using Machine Learning.
+I am currently working as a research intern at the Massuchussets Institute of Technology on using Deep Learning methods to understand and predict high impact weather events. I received my B.E (Hons) degree in Computer Science and Engineering with a Minor in Data Science from the Birla Institute of Techonology and Science, Pilani (BITS Pilani). As part of my undergraduate thesis I worked in Dr. Michael Young's research group at the University of Texas at Austin on investigating spaceborne GNSS-R data from NASA's CYGNSS mission for high spatio-temporal soil moisture retrievals using Machine Learning.
 
 <!-- ## Research Interests
 * Extreme Weather Prediction 
