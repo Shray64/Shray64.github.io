@@ -10,12 +10,12 @@ redirect_from:
 
 I am a recent graduate from the Birla Institute of Technology and Science, Pilani, India. I graduated with a Bachelor of Engineering in Computer Science and Engineering and a minor in Data Science.
 
-## Research Interests
+<!-- ## Research Interests
 * Extreme Weather Prediction 
 * Explainable AI
 * 2D and 3D segmentation
 * GNNS-R 
-* Remote Sensing
+* Remote Sensing -->
 
 
 ## Education
