@@ -8,7 +8,20 @@ redirect_from:
   - /about.html
 ---
 
-I recently received my B.E (Hons) degree in Computer Science and Engineering with a Minor in Data Science from the Birla Institute of Techonology and Science, Pilani (BITS Pilani). I am very interested in exploring interdisciplinary applications of Machine Learning tecniques for high-impact problems. In particular my research interests include Computer Vision, Explainable AI, Extreme weather prediction and Physics-guided Machine Learning. 
+I recently received my B.E (Hons) degree in Computer Science and Engineering with a Minor in Data Science from the Birla Institute of Techonology and Science, Pilani (BITS Pilani). I am currently working as a research intern at the Massachussets Institute of Technology on identifying and predicting extreme wether events based on synoptic scale atmospheric forcing patters. I am very interested in exploring the interdisciplinary applications of Machine Learning tecniques for high-impact problems. In particular my research interests include Computer Vision, Explainable AI, Extreme weather prediction and Physics-guided Machine Learning. 
+
+<!-- Synoptic scale forcings
+Spaceborne GNSS-R
+Agriculture and Remote Sensing
+Statistical Forescasting and Machine Learning
+Computer Vision
+Biomedical Image Segmentation 
+Explainable AI
+Extreme Weather events
+
+My research interests lie in the general area of machine learning, particularly in deep learning, reinforcement learning and probabilistic graphical models, as well as their applications in sequential decision making, generative modeling, multi-task and meta-learning and multi-agent systems -->
+
+
 
 <!-- ## Research Interests
 * Extreme Weather Prediction 
