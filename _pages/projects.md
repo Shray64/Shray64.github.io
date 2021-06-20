@@ -100,7 +100,14 @@ We collected and annotated a new dataset—YouTop200-of 200 most-watched YouTube
 <!-- <img src="/files/figures/Harvard/scutoid_fig.png" width = '960' height = '300'> -->
 <!-- <img style="float:left;margin:10px 10px 0px 0px" src="/files/figures/Harvard/scutoid_fig.png" alt="MitoEM Logo" width="160" height="160"> -->
 <img style="float:left;margin:10px 10px 0px 0px" src="/files/figures/Harvard/scutoid_fig.png" width="400" height="400">
-Currently working on 3D Instance Segmentation of Scutoid Volumes using Self training and Connectomic segmentation.
+Leverage additional unlabelled data to develop a Self-Training approach for 3D segmentation of Electron Microscopy volumes.
+
+•	Built a Residual Symmetric 3D U-Net for model predictions.
+•	Used a pre-trained model to generate pseudo-labels for additional unlabeled volumes.
+•	Retrained the model using labelled and pseudo-labeled volumes to improve adapted rand index on test volumes.
+•	Converted binary foreground probability maps, instance contours and signed distance transform to instance masks via the watershed segmentation algorithm.
+
+
 
 <!-- ### MitoEM Challenge: Large-scale 3D Mitochondria Instance Segmentation
 
