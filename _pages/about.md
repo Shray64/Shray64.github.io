@@ -62,4 +62,4 @@ Topics: 3D Semantic Segmentation, Self-Supervised Learning, Video Object Detecti
 <img align="right" src="/files/figures/Aarhus/aarhuslogo_2.png" height = 'auto' width = '80'>
 Time: June 2020 - Sept 2020.  
 Advisors: Prof. Rune Hylsberg Jacobsen and Dr. Jacob Høxbroe Jeppesen.  
-Topics: Explainable AI, Layer-wise Relevance Propagation, LIME, Sentinel Data
+Topics: Explainable AI, Layer-wise Relevance Propagation, LIME, Sentinel Satellite Data
