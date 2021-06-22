@@ -55,8 +55,10 @@ This dissertation presents a Machine Learning based soil moisture retrieval meth
 <!-- [[Thesis](https://shray64.github.io/files/UT/Thesis.pdf)![image](https://user-images.githubusercontent.com/66770853/122907526-df3c4900-d370-11eb-9840-22a79df6c51a.png)
 )] -->
 
-[[Thesis](https://shray64.github.io/files/UT/Thesis.pdf![image](https://user-images.githubusercontent.com/66770853/122912741-49a3b800-d376-11eb-853f-a4421b41623b.png)
-)]
+<!-- [[Thesis](https://shray64.github.io/files/UT/Thesis.pdf![image](https://user-images.githubusercontent.com/66770853/122912741-49a3b800-d376-11eb-853f-a4421b41623b.png)
+)] -->
+
+[[Thesis](https://shray64.github.io/files/UT/Thesis.pdf)]
 
 <!-- Zudi Lin, [Donglai Wei](https://donglaiw.github.io), [Won-Dong Jang](https://wdjang.github.io), Siyan Zhou, Xupeng Chen, [Xueying Wang](https://sites.google.com/view/snowxwang/home?authuser=0), Richard Schalek, Daniel Berger, [Brian Matejek](https://www.brianmatejek.com), Lee Kamentsky, Adi Suissa-Peleg, [Daniel Haehn](https://danielhaehn.com), [Thouis Jones](https://personal.broadinstitute.org/thouis/), Toufiq Parag, [Jeff Lichtman](https://lichtmanlab.fas.harvard.edu/people/jeff-lichtman) and [Hanspeter Pfister](https://en.wikipedia.org/wiki/Hanspeter_Pfister). "Two-Stream Active Query Suggestion for Active Learning in Connectomics." *European Conference on Computer Vision* (**ECCV**), 2020 [[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123630103.pdf)][[Supp.](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123630103-supp.pdf)]
 
