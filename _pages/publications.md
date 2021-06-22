@@ -24,7 +24,7 @@ author_profile: true
 *Remote Sensing of Environment*, 2021 (In Progress)
 
 * Lavika Goel, **Shray Mathur**, Akshina Jindal, Atith Gandhi
-"	Integrated Models of Machine Learning for Design of a Crop Recommendation System for Rajasthan, India." *Journal of the Indian Society of Remote Sensing* , 2021 (Under Review)
+"Integrated Models of Machine Learning for Design of a Crop Recommendation System for Rajasthan, India." *Journal of the Indian Society of Remote Sensing* , 2021 (Under Review)
 
 ## Conference Publications
 * Donglai Wei, Siddhant Kharbanda, Sarthak Arora, Roshan Roy, Nishant Jain, Akash Palrecha, Tanav Shah, **Shray Mathur**, Abhijay Kemkar, Anirudh Chakravarthy, Zudi Lin, Won-Dong Jang, Yansong Tang, Song Bai, Deqing Sun, James Tompkin, Philip Torr and Hanspeter Pfister. "YouTop200: A Most-Watched Video Object Segmentation Dataset."
@@ -33,4 +33,4 @@ author_profile: true
 
 ## Book Chapters
 * Lavika Goel, Akshina Jindal, **Shray Mathur**, Atith Gandhi
-"	Design and Implementation of a Crop Recommendation System Using Nature Inspired Intelligence for Rajasthan, India." *Deep Learning for Sustainable Agriculture* , 2021 (**accepted**)
+"Design and Implementation of a Crop Recommendation System Using Nature Inspired Intelligence for Rajasthan, India." *Deep Learning for Sustainable Agriculture* , 2021 (**accepted**)
