@@ -56,7 +56,7 @@ Topics: CyGNSS, SMAP, TxSON, Artificial Neural Networks
 <img align="right" src="/files/figures/Harvard/harvard_logo_4.png" height = 'auto' width = '80'>
 Time: Sept 2020 - May 2021  
 Advisor: Prof. Hanspeter Pfister  
-Topics: 3D Semantic Segmentation, Self-Supervised Learning, Video Object Detection
+Topics: 3D Semantic Segmentation, Semi-Supervised Learning, Video Object Detection
 
 * *Research Intern*, **Aarhus University, Denmark**  
 <img align="right" src="/files/figures/Aarhus/aarhuslogo_2.png" height = 'auto' width = '80'>
