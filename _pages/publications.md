@@ -16,7 +16,7 @@ author_profile: true
 
 ## Journal Publications
 
-* Xiang Gao and **Shray Mathur**. "Predictability of U.S. regional extreme precipitation occurrence based on large-scale meteorological patterns (LSMPs)."
+* Xiang Gao and **Shray Mathur**. "Predictability of U.S. Regional Extreme Precipitation Occurrence Based on Large-Scale Meteorological Patterns (LSMPs)."
 *Journal of Climate*, 2021 [[Paper](https://doi.org/10.1175/JCLI-D-21-0137.1)]
 
 * Jacob Høxbroe Jeppesen, **Shray Mathur**, Rune Hylsberg Jacobsen
