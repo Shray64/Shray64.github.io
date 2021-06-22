@@ -17,7 +17,7 @@ author_profile: true
 2. [High Spatio-Temporal CyGNSS Soil Moisture Using Machine Learning](#cygnss)
 3. [Interpretable Machine Learning for Satellite Based Remote Sensing](#explainable)
 4. [YouTop200: A Most-Watched Video Object Segmentation Dataset](#youtop)
-5. [Self Supervised Learning Based 3D Instance Segmentation of Scutoid](#scutoid)
+5. [Semi-Supervised Learning Based 3D Instance Segmentation of Scutoid](#scutoid)
 
 ------------------------------------------------------------------------------
 ## Extreme Weather Prediction <a name="extreme"></a>
@@ -94,7 +94,7 @@ We collected and annotated a new dataset—YouTop200-of 200 most-watched YouTube
 
 
 ------------------------------------------------------------------------------
-## Semi-supervised Learning Based 3D Instance Segmentation of Scutoid <a name="scutoid"></a>
+## Semi-Supervised Learning Based 3D Instance Segmentation of Scutoid <a name="scutoid"></a>
 
 <!-- ![Two-stream active](/files/figures/Harvard/scutoid_fig.png) -->
 
