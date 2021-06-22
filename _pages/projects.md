@@ -93,14 +93,14 @@ We collected and annotated a new dataset—YouTop200-of 200 most-watched YouTube
 
 
 ------------------------------------------------------------------------------
-## Self Supervised Learning Based 3D Instance Segmentation of Scutoid <a name="scutoid"></a>
+## Semi-supervised Learning Based 3D Instance Segmentation of Scutoid <a name="scutoid"></a>
 
 <!-- ![Two-stream active](/files/figures/Harvard/scutoid_fig.png) -->
 
 <!-- <img src="/files/figures/Harvard/scutoid_fig.png" width = '960' height = '300'> -->
 <!-- <img style="float:left;margin:10px 10px 0px 0px" src="/files/figures/Harvard/scutoid_fig.png" alt="MitoEM Logo" width="160" height="160"> -->
 <img style="float:left;margin:10px 10px 0px 0px" src="/files/figures/Harvard/scutoid_fig.png" width="400" height="400">
-Cells in bent epithelia can undergo intercalations along the apico-basal axis. This phenomenon forces cells to have different neighbours in their basal and apical surfaces. As a consequence, epithelial cells adopt a novel shape that is termed as “scutoid”. In this project we look to leverage additional unlabelled 3D Electron Microscopy Scutoid volumes to develop a Self-Training approach for 3D segmentation. We use a pre-trained Residual Symmetric 3D U-Net to generate pseudo-labels of additional unlabeled volumes. The model is then retrained using labelled and pseudo-labeled volumes to improve adapted rand index on a set of test volumes. The watershed segmentation algorithm is used to convert the binary foreground probability maps, instance contours and signed distance transform to instance mask
+Cells in bent epithelia can undergo intercalations along the apico-basal axis. This phenomenon forces cells to have different neighbours in their basal and apical surfaces. As a consequence, epithelial cells adopt a novel shape that is termed as “scutoid”. Machine learning applications in bio-medical imaging are frequently limited by the lack of quality labeled data. In this paper, we explore the self training method, a form of semi-supervised learning, to leverage additional unlabelled 3D Electron Microscopy Scutoid volumes. We use a pre-trained Residual Symmetric 3D U-Net to generate pseudo-labels of additional unlabeled volumes. The model is then retrained using labelled and pseudo-labeled volumes to improve adapted rand index on a set of test volumes. The watershed segmentation algorithm is used to convert the binary foreground probability maps, instance contours and signed distance transform to instance mask
 
 
 
