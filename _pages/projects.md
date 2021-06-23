@@ -52,11 +52,6 @@ Xiang Gao and Shray Mathur. "Predictability of U.S. Regional Extreme Precipitati
 
 This dissertation presents a Machine Learning based soil moisture retrieval method for NASA’s Cyclone Global Navigation Satellite System (CYGNSS) mission. The CYGNSS observations are compared to the Soil Moisture Active Passive (SMAP), in-situ Texas Soil Observation Network (TxSON) and NASA's CyGNSS L3 soil moisture (SM) measurements for the entire 2019 year. An initial grid-wise sensitivity analysis of CYGNSS reflectivity (P<sub>r,eff</sub>) to Soil Moisture (SM) is conducted at a 9x9km<sup>2</sup> grid resolution over the 36x36 km<sup>2</sup> TxSON region to assess the spatio-temporal relationships between P<sub>r,eff</sub> and SM. Variability among grid cells and seasonal shifts in correlations motivated inclusion of land physical parameters and CYGNSS observation geometry in the analysis. Specifically, we include the Specular Point (SP) incidence angle(θ),Elevation, Clay Fraction, Normalized Difference Vegetation Index (NDVI), Depth to Restrictive Layer (DepRes), and surface roughness. The individual effects of these variables on P<sub>r,eff </sub> are assessed through a correlation and regression analysis. Finally, an Artificial Neural Network (ANN) model is trained for different combinations of input features to attain SM estimates at 9x9km<sup>2</sup>and 3x3km<sup>2</sup> grid resolutions. The model structure is tuned to attain optimal results for different combinations and a 5-fold cross validation approach is employed to train the models. SM predictions with a root mean squared error (RMSE) of 0.0409 (0.0497) cm<sup>3</sup>/cm<sup>3</sup> and Pearson correlation coefficient (R) of 0.7024 (0.6794) are reported at 9x9 (3x3) km<sup>2</sup> grid resolution for the months of January, April and July and at an RMSE of 0.034 and R of 0.763 for the entire 2019 year.
 
-<!-- [[Thesis](https://shray64.github.io/files/UT/Thesis.pdf)![image](https://user-images.githubusercontent.com/66770853/122907526-df3c4900-d370-11eb-9840-22a79df6c51a.png)
-)] -->
-
-<!-- [[Thesis](https://shray64.github.io/files/UT/Thesis.pdf![image](https://user-images.githubusercontent.com/66770853/122912741-49a3b800-d376-11eb-853f-a4421b41623b.png)
-)] -->
 
 [[Thesis](https://shray64.github.io/files/UT/Thesis.pdf)]
 
