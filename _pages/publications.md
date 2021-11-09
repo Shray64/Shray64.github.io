@@ -19,7 +19,8 @@ author_profile: true
 * Xiang Gao and **Shray Mathur**. "Predictability of U.S. Regional Extreme Precipitation Occurrence Based on Large-Scale Meteorological Patterns (LSMPs)."
 *Journal of Climate*, 2021 [[Paper](https://doi.org/10.1175/JCLI-D-21-0137.1)]
 
-**Shray Mathur** and Xiang Gao. "Examining atmospheric circulation patterns and associated precipitation extremes over the south-central U.S. using self-organizing Maps: A comparative assessment from different reanalyses, *Journal of Climate*, 2021 (in progress)
+* **Shray Mathur** and Xiang Gao. "Examining atmospheric circulation patterns and associated precipitation extremes over the south-central U.S. using self-organizing Maps: A comparative assessment from different reanalyses." 
+*Journal of Climate*, 2021 (in progress)
 
 * Jacob Høxbroe Jeppesen, **Shray Mathur**, Rune Hylsberg Jacobsen.
 "Interpretable machine learning for satellite based remote sensing."
@@ -28,7 +29,8 @@ author_profile: true
 * Lavika Goel, **Shray Mathur**, Akshina Jindal, Atith Gandhi.
 "Integrated Models of Machine Learning for Design of a Crop Recommendation System for Rajasthan, India." *Journal of the Indian Society of Remote Sensing* , 2021 (submitted, under review)
 
-Mukesh Rohil and **Shray Mathur**. "CYGNSS-Derived Soil Moisture: Status, Challenges and Future" **Ecological Informatics** (submitted, under review)
+* Mukesh Rohil and **Shray Mathur**. "CYGNSS-Derived Soil Moisture: Status, Challenges and Future" 
+* Ecological Informatics* (submitted, under review)
 
 ## Conference Publications
 
