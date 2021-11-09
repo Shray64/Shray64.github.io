@@ -30,7 +30,7 @@ author_profile: true
 "Integrated Models of Machine Learning for Design of a Crop Recommendation System for Rajasthan, India." *Journal of the Indian Society of Remote Sensing* , 2021 (submitted, under review)
 
 * Mukesh Rohil and **Shray Mathur**. "CYGNSS-Derived Soil Moisture: Status, Challenges and Future" 
-* Ecological Informatics* (submitted, under review)
+*Ecological Informatics* (submitted, under review)
 
 ## Conference Publications
 
