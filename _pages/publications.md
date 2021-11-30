@@ -29,7 +29,7 @@ author_profile: true
 * Lavika Goel, **Shray Mathur**, Akshina Jindal, Atith Gandhi.
 "Integrated Models of Machine Learning for Design of a Crop Recommendation System for Rajasthan, India." *Journal of the Indian Society of Remote Sensing* , 2021 (submitted, under review)
 
-* Mukesh Rohil and **Shray Mathur**. "CYGNSS-Derived Soil Moisture: Status, Challenges and Future" 
+* Mukesh Rohil and **Shray Mathur**. "Machine Learning Based CYGNSS-Derived Soil Moisture: Status, Challenges and Future" 
 *Ecological Informatics* (submitted, under review)
 
 ## Conference Publications
@@ -37,8 +37,8 @@ author_profile: true
 * Raj Shah, Ashutosh Bhatia, Atith Gandhi and **Shray Mathur**. "Bitcoin Data Analytics: Scalable techniques for transaction clustering and embedding generation."
 *IEEE COMNSETS*, 2021 [[Paper](https://ieeexplore.ieee.org/abstract/document/9352922)]
 
-* Donglai Wei, Siddhant Kharbanda, Sarthak Arora, Roshan Roy, Nishant Jain, Akash Palrecha, Tanav Shah, **Shray Mathur**, Abhijay Kemkar, Anirudh Chakravarthy, Zudi Lin, Won-Dong Jang, Yansong Tang, Song Bai, Deqing Sun, James Tompkin, Philip Torr and Hanspeter Pfister. "YouTop200: A Most-Watched Video Object Segmentation Dataset."
-*International Conference on Computer Vision* (**ICCV**), 2021 (submitted, under review)
+* Donglai Wei, Siddhant Kharbanda, Sarthak Arora, Roshan Roy, Nishant Jain, Akash Palrecha, Tanav Shah, **Shray Mathur**, Abhijay Kemkar, Anirudh Chakravarthy, Zudi Lin, Won-Dong Jang, Yansong Tang, Song Bai, Deqing Sun, James Tompkin, Philip Torr and Hanspeter Pfister. "YouMVOS: An Actor-centric Multi-shot Video Object Segmentation Dataset."
+*Conference on Computer Vision and Pattern Recognition* (**CVPR**), 2022 (submitted, under review)
 
 
 ## Book Chapters
