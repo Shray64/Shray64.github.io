@@ -43,4 +43,4 @@ author_profile: true
 
 ## Book Chapters
 * Lavika Goel, Akshina Jindal, **Shray Mathur**, Atith Gandhi.
-"Design and Implementation of a Crop Recommendation System Using Nature Inspired Intelligence for Rajasthan, India." *Deep Learning for Sustainable Agriculture* , 2021 (accepted)
+"Design and Implementation of a Crop Recommendation System Using Nature Inspired Intelligence for Rajasthan, India." *Deep Learning for Sustainable Agriculture* , 2021 [[Paper](https://doi.org/10.1016/B978-0-323-85214-2.00005-7)]
