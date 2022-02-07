@@ -41,25 +41,21 @@ Birla Institute of Technology and Science Pilani 2017 – 2021
 
 ## Research Experience
 * *Research Intern*, **Massachusetts Institute of Technology**  
-<img align="right" src="/files/figures/MIT/mit_logo.png" height = 'auto' width = '80'>
-Time: May 2020 - Present  
+<img align="right" src="/files/figures/MIT/mit_logo.png" height = 'auto' width = '80'> 
 Advisor: Dr. Xiang Gao  
 Topics: Extreme Weather, Convolutional Neural Networks, Self Organizing Maps, Neural Network Ensembles
 
 * *Research Engineering / Scientist Assistant*, **The Univeristy of Texas at Austin**  
 <img align="right" src="/files/figures/UT/UT_logo_3.jpeg" height = '80' width = '80'>
-Time: Jan 2021 - May 2021  
 Advisor: Dr. Michael H Young  
 Topics: CyGNSS, SMAP, TxSON, Artificial Neural Networks
 
 * *Research Intern*, Visual Computing Group, **Harvard University**  
 <img align="right" src="/files/figures/Harvard/harvard_logo_4.png" height = 'auto' width = '80'>
-Time: Sept 2020 - May 2021  
 Advisor: Prof. Hanspeter Pfister  
 Topics: 3D Semantic Segmentation, Semi-Supervised Learning, Video Object Detection
 
 * *Research Intern*, **Aarhus University, Denmark**  
-<img align="right" src="/files/figures/Aarhus/aarhuslogo_2.png" height = 'auto' width = '80'>
-Time: June 2020 - Sept 2020.  
+<img align="right" src="/files/figures/Aarhus/aarhuslogo_2.png" height = 'auto' width = '80'> 
 Advisors: Prof. Rune Hylsberg Jacobsen and Dr. Jacob Høxbroe Jeppesen.  
 Topics: Explainable AI, Layer-wise Relevance Propagation, LIME, Sentinel Satellite Data
