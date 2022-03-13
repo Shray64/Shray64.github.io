@@ -38,7 +38,7 @@ author_profile: true
 *IEEE COMNSETS*, 2021 [[Paper](https://ieeexplore.ieee.org/abstract/document/9352922)]
 
 * Donglai Wei, Siddhant Kharbanda, Sarthak Arora, Roshan Roy, Nishant Jain, Akash Palrecha, Tanav Shah, **Shray Mathur**, Abhijay Kemkar, Anirudh Chakravarthy, Zudi Lin, Won-Dong Jang, Yansong Tang, Song Bai, Deqing Sun, James Tompkin, Philip Torr and Hanspeter Pfister. "YouMVOS: An Actor-centric Multi-shot Video Object Segmentation Dataset."
-*Conference on Computer Vision and Pattern Recognition* (**CVPR**), 2022 (submitted, under review)
+*Conference on Computer Vision and Pattern Recognition* (**CVPR**), 2022 (Accepted)
 
 
 ## Book Chapters
